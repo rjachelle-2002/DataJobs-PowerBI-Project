@@ -86,7 +86,6 @@ This ensures users can explore and interpret insights easily.
 ## Sample Dashboard
 This is what Page 1 looks like. To explore the drill-through page, You can access the full dashboard here: 
 
-[Data Jobs Dashboard](https://youtu.be/FwjaHCVNBWA?si=p-Bxy-R03MeAvIqK)
-
+[Data Jobs Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTJmMDgwOWEtZDY3MC00ZTJiLWE4NzItMmEwNjIwZmJlMTI2IiwidCI6IjI5OTNhMzM3LTVjOWItNDgyNy1hOTk2LWU0ZmI2ZTRlNmM3NyIsImMiOjEwfQ%3D%3D)
 
 ![Dashboard](images/pc1.png)
